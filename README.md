@@ -25,11 +25,5 @@
 <br />
 
 
-<summary> L4zKopat Github Stats</summary>  
-<img src = "https://github-readme-stats.vercel.app/api?username=L4zKopat&theme=radical" > 
-
-<br />
-<br />
-
  <summary>   </summary>
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=L4zKopat&theme=radical" >
