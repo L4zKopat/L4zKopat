@@ -1,7 +1,6 @@
 ## Hello, I'm L4zKopat. Welcome to my profile.
 
 <br />
-<br />
 
 ### Reach out to me    
 
@@ -15,8 +14,6 @@
 [linkedin]: https://www.linkedin.com/in/kutay-kerem-754016238/
 
 
-<br />
-<br />
 <br />
 <br />
 
@@ -33,10 +30,6 @@
 
 <br />
 <br />
-<br />
-<br />
-
-
 
  <summary>   </summary>
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=L4zKopat&theme=radical" >
